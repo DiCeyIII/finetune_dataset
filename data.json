@@ -2097,5 +2097,5 @@
 {"instruction": "Determine if the sentiment of this comment is positive, negative, or neutral.", "input": "Performance is standard; nothing exceptional. #687", "output": "Balanced"},
 {"instruction": "Classify whether the sentiment of this review is positive, neutral, or negative.", "input": "The experience was average overall. #108", "output": "Balanced"},
 {"instruction": "Determine if the sentiment of this comment is positive, negative, or neutral.", "input": "The product meets basic expectations. #212", "output": "Balanced"},
-{"instruction": "Analyze the feelings conveyed in this text.", "input": "Features are as described; no surprises. #585", "output": "Balanced"}
+{"instruction": "Analyze the feelings conveyed in this text.", "input": "Features are as described; no surprises. #585", "output": "Balanced"},
 ]
